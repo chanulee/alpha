@@ -10,7 +10,8 @@ Wearable Interface 'Alpha' for Sunny Day
 2. <a name="2" href="https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide?_ga=2.13438583.1502922294.1671452785-154993728.1671452785" target="_blank">Flex sensor hookup guide</a> 
 3. <a name="3">TFT LCD Display</a>
 4. <a name="4">Haptic Feedback using LilyPad Vibe Board</a>
-## Memo
+## Memo / Trial & Error
+- Set to ESP32 Dev Module in IDE
 - Haptic feedback of LilyPad Vibe Board feels a little bit weak on wrist. But still stronger than Qwiic Haptic Driver DA7280.
 - [Qwiic 6DoF Gyro/Acc LSM6DSO library](https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6dso-breakout-hookup-guide) and [Qwiic Haptic Driver DA7280 library](https://learn.sparkfun.com/tutorials/qwiic-haptic-driver-da7280-hookup-guide?_ga=2.22013947.1502922294.1671452785-154993728.1671452785) crashes on arduino ide
 ## Acknowledgement
