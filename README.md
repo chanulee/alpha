@@ -8,7 +8,7 @@ Wearable Interface 'Alpha' for Sunny Day
 ## Add-on Libraries
 1. <a name="1" href="https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/" target="_blank">Bluetooth Serial for ESP32</a>  You should set COM port as "send" on the device when you connect to ESP32
 2. <a name="2" href="https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide?_ga=2.13438583.1502922294.1671452785-154993728.1671452785" target="_blank">Flex sensor hookup guide</a> 
-3. <a name="3">TFT LCD Display</a>
+3. <a name="3" href="https://www.youtube.com/watch?v=rq5yPJbX_uk" target="_blank">TFT LCD Display</a>
 4. <a name="4">Haptic Feedback using LilyPad Vibe Board</a>
 ## Memo / Trial & Error
 - Set to ESP32 Dev Module in IDE
