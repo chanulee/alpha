@@ -1,13 +1,3 @@
-/*
-Date: 5/2021
-Author: Elias Santistevan @ SparkFun Electronics
-Writing vibration values via I2C to vibrate the motor. 
-
-This vibrates *extremely* vigurously, adhere the motor to something or it will
-produce a fault and stop functioning. 
-
-*/
-
 #include "BluetoothSerial.h"
 // #include <Wire.h>
 // #include "Haptic_Driver.h"
