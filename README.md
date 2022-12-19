@@ -12,6 +12,7 @@ Wearable Interface 'Alpha' for Sunny Day
 4. <a name="4">Haptic Feedback using LilyPad Vibe Board</a>
 ## Memo / Trial & Error
 - Set to ESP32 Dev Module in IDE
+- Button on right side of the microusb port should be pressed when uploading code. Press the other button to reboot after uploading.
 - Haptic feedback of LilyPad Vibe Board feels a little bit weak on wrist. But still stronger than Qwiic Haptic Driver DA7280.
 - [Qwiic 6DoF Gyro/Acc LSM6DSO library](https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6dso-breakout-hookup-guide) and [Qwiic Haptic Driver DA7280 library](https://learn.sparkfun.com/tutorials/qwiic-haptic-driver-da7280-hookup-guide?_ga=2.22013947.1502922294.1671452785-154993728.1671452785) crashes on arduino ide
 ## Acknowledgement
