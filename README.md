@@ -1,5 +1,5 @@
-# sunnyDayAlpha
-Wearable Interface 'Alpha' for Sunny Day
+# Alpha: Wearable interface for Sunny Day
+
 ## Features
 - Bluetooth Serial (Send and receive data) [[1]](#1)
 - Get flex sensor angle value [[2]](#2)
