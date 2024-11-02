@@ -2,7 +2,7 @@
 ## 1. Description
 <img src="https://portfolio-22.s3.ap-northeast-2.amazonaws.com/sunny-day/g9.jpg" width="50%" height="50%"></img>
 <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/cef793c1-7950-4966-b035-7af2e2b043bc.gif?ClientID=vimeo-core-prod&Date=1671889643&Signature=d84e1faf919617460a0c30617b19494490326d85" width="50%" height="50%"></img>
-
+More capable version [hapgrab](https://github.com/chanulee/hapgrab)
 ## 2. Features
 - Bluetooth Serial (Send and receive data) [[1]](#1)
 - Get flex sensor angle value [[2]](#2)
